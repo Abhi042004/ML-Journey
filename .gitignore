@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+1.Pre-Requisites/myenv/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore dataset folders (adjust if your dataset folder has a different name)
+data/
+*.csv
+*.h5
+*.pkl
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store

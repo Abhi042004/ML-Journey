@@ -1,0 +1,2 @@
+# here we write the list of all the packages that we are required to install or to share to run this project
+ipykernel
