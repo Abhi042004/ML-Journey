@@ -1,0 +1,6 @@
+ipykernel
+pandas
+numpy
+mysql.connector
+requests
+bs4

@@ -1,6 +1,7 @@
 # Ignore Python virtual environments
 1.Pre-Requisites/myenv/
 venv/
+myenv/
 __pycache__/
 *.pyc
 
